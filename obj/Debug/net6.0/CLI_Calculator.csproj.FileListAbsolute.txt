@@ -1,0 +1,15 @@
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\bin\Debug\net6.0\CLI_Calculator.exe
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\bin\Debug\net6.0\CLI_Calculator.deps.json
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\bin\Debug\net6.0\CLI_Calculator.runtimeconfig.json
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\bin\Debug\net6.0\CLI_Calculator.dll
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\bin\Debug\net6.0\CLI_Calculator.pdb
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.csproj.AssemblyReference.cache
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.AssemblyInfoInputs.cache
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.AssemblyInfo.cs
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.dll
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\refint\CLI_Calculator.dll
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.pdb
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\CLI_Calculator.genruntimeconfig.cache
+C:\Users\liama\Documents\code\general\c#\CLI_Calculator\CLI_Calculator\obj\Debug\net6.0\ref\CLI_Calculator.dll
